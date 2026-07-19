@@ -44,7 +44,10 @@ const productSchema = new mongoose.Schema(
       type: Number,
       required: true,
     },
-
+    priceLabel: {
+      type: String,
+      default: "",
+    }, 
     rating: {
       type: Number,
       default: 4.5,
