@@ -613,8 +613,9 @@ const products = [
     images: [
       "/assets/photo-editing/photo-album.png",
     ],
-    originalPrice: 999,
-    price: 90,
+    originalPrice: 110,
+    price: 99,
+    priceLabel: "per page",
     rating: 4.8,
     stock: 100,
     size: "Digital",
@@ -626,7 +627,7 @@ const products = [
     images: [
       "/assets/photo-editing/photo-album1.png",
     ],
-    originalPrice: 999,
+    originalPrice: 110,
     price: "99",
     priceLabel: "per page",
     rating: 4.8,
@@ -642,7 +643,7 @@ const products = [
       "/assets/photo-editing/logo4.jpeg",
       "/assets/photo-editing/logo3.jpeg"
     ],
-    originalPrice: 999,
+    originalPrice: 599,
     price: 499,
     rating: 4.8,
     stock: 100,
@@ -656,7 +657,7 @@ const products = [
     images: [
       "/assets/photo-editing/logo5.jpeg",
     ],
-    originalPrice: 999,
+    originalPrice: 599,
     price: 499,
     rating: 4.8,
     stock: 100,
